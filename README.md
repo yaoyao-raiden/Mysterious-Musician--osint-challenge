@@ -17,11 +17,11 @@ You're a big fan of a new up-and-coming musician named "Starbeat40." Their music
     • Name of the artist
 
 Flag format:
-• Challenge1: {http://socialmedialink}
+• Challenge1: NULL{http://socialmedialink}
 
-• Challenge 2: i) {location: area, city}
+• Challenge 2: i) NULL{location: area, city}
 
-ii) {Name of artist}
+ii) NULL{Name of artist}
 
 ### Hint
 - instagram id : starbeat40
